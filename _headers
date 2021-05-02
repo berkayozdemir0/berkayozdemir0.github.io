@@ -117,7 +117,7 @@
   Link: </component---src-templates-page-template-js-8b64bb5b6162dcc78f90.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/a-brief-history-of-typography
+/posts/perfecting-the-art-of-perfection
   Link: </webpack-runtime-d867b5962728adcf8b32.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
@@ -128,7 +128,7 @@
   Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-c696dd1206b92c5521e7.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-ef9a32030bdf291e5f33.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/the-origins-of-social-stationery-lettering
   Link: </webpack-runtime-d867b5962728adcf8b32.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -141,6 +141,18 @@
   Link: </component---src-templates-post-template-js-ef9a32030bdf291e5f33.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/a-brief-history-of-typography
+  Link: </webpack-runtime-d867b5962728adcf8b32.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-359cf50f862f137757be.js>; rel=preload; as=script
+  Link: </app-cff47730cc0cefe3a917.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-c696dd1206b92c5521e7.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-ef9a32030bdf291e5f33.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/the-birth-of-movable-type
   Link: </webpack-runtime-d867b5962728adcf8b32.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -165,18 +177,6 @@
   Link: </component---src-templates-post-template-js-ef9a32030bdf291e5f33.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/perfecting-the-art-of-perfection
-  Link: </webpack-runtime-d867b5962728adcf8b32.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
-  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-359cf50f862f137757be.js>; rel=preload; as=script
-  Link: </app-cff47730cc0cefe3a917.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-c696dd1206b92c5521e7.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-ef9a32030bdf291e5f33.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/design
   Link: </webpack-runtime-d867b5962728adcf8b32.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
