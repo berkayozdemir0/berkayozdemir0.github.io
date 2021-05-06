@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Berkay Özdemir',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Benim blog sayfımı görüntülüyorsunuz , yazılım üzerine bilgilendirici paylaşımlarda bulunacağım.',
     contacts: {
       email: '',
       facebook: '#',
