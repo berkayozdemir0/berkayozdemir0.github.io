@@ -1,37 +1,47 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: .NET Framework Nedir ve Bilgisayarınız Neden Buna İhtiyaç Duyar?
+date: "2021-05-19T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
-category: "Typography"
+slug: "net-framework-nedir-ne-ise-yarar"
+category: "Yazılım"
 tags:
-  - "Design"
-  - "Typography"
+  - "islemci"
+  - "Yazılım"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "Standart bir Windows işletim sistemine sahip bilgisayar kullanıcısı .NET Framework nedir bilmek zorunda değil ama eğer bir yazılım geliştiriciyseniz ya da bilgisayarınıza alışık olmadığınız bir yazılım yüklemeye çalışıyorsanız .NET Framework sistemini bilmeniz gereklidir. Gelin detaylara daha yakından bakalım."
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-- [The first transition](#the-first-transition)
+<!-- - [The first transition](#the-first-transition)
 - [The digital age](#the-digital-age)
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
-- [Chasing perfection](#chasing-perfection)
+- [Chasing perfection](#chasing-perfection) -->
 
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+Normal şartlar altında bir Windows işletim sistemine sahip bilgisayar kullanıcısı, işletim sistemine dahil olmayan birkaç program indirdikten sonra rahatça cihazını kullanabilir. Ancak kullandığınız Windows 7, Windows 10 gibi bir versiyona uygun olmayan bir yazılım yüklemeye çalışıyorsanız .NET Framework ile ilgili bir sorunla karşılaşabilirsiniz ama tekrar edelim, çoğu zaman bir kullanıcı .NET Framework nedir bilmek zorunda değildir. 
 
-The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
+Eğer bir yazılım geliştiriciyseniz ve yazılımınızın Windows işletim sisteminde de çalışmasını istiyorsanız .NET Framework uzmanlık alanınız olmalıdır. Çünkü .NET Framework sistemi dahilinde geliştirilmemiş hiçbir yazılım Windows işletim sisteminde çalışmayacaktır. Microsoft bu sistemi kurup ücretsiz kullanıma boşuna sunmadı. .NET Framework nedir, ne işe yarar, her bilgisayarda olması gerekiyor mu gelin daha detaylı inceleyelim. 
 
-But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.
+![net-1.jpeg](/media/net-framework/net-1.jpeg) 
 
-## The first transition
+<h1> .NET Framework nedir?</h1>
 
-A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.
+<!-- ## The first transition -->
 
-The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.
+.NET, Microsoft tarafından kurulan ve yazılım geliştiricilere kolaylık sunan bir programlama sistemidir. Bu sistem dahilinde pek çok farklı işletim sistemine uyumlu yazılım geliştirilebilir. Sistemin bir parçası olan .NET Framework ise hazırlanan programların Windows işletim sistemine uyumluluğunu sağlayan .NET türüdür.
 
-![42-line-bible.jpg](/media/42-line-bible.jpg)
+.NET Framework üzerinden hazırlanan bir yazılımın Windows işletim sisteminde başarılı bir şekilde çalışması için yalnızca bu sistemde hazırlanmış olması yetmez. Aynı zamanda yazılımı kullanacak bilgisayarda da kararlı bir .NET Framework sürümünün yüklü olması gerekiyor. Çoğu zaman Windows işletim sisteminde yüklü olarak gelse de bazı durumlarda harici olarak Microsoft internet sitesinden indirerek kurulum yapmak gerekebilir. 
 
+![net-1.jpeg](/media/net-framework/net-2.jpeg) 
+
+![net-1.jpeg](/media/net-framework/net-3.jpeg) 
+
+
+
+
+
+
+<!-- 
 *The 42–Line Bible, printed by Gutenberg.*
 
 But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.
@@ -48,9 +58,9 @@ Typography is not about typefaces. It’s not about what looks best, it’s abou
 
 ## Loss of humanity through transitions
 
-Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.
+Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street. -->
 
-<figure>
+<!-- <figure>
 	<blockquote>
 		<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>
 		<footer>
@@ -59,12 +69,12 @@ Each transition took away a part of humanity from written language. Handwritten 
 	</blockquote>
 </figure>
 
-Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.
+Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t. -->
 
 > Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.
 >
 > — Eric Gill
-
+<!-- 
 We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.
 
 ![type-through-time.jpg](/media/type-through-time.jpg)
@@ -76,5 +86,5 @@ We lost a part of ourselves because of this chase after perfection. We forgot ab
 ## Chasing perfection
 
 Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
-
-*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*
+ 
+ *Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).* -->
