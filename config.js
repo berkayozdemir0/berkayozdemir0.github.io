@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'berkayozdemir.dev',
+  url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Berkay Özdemir',
   subtitle: 'Berkay Özdemir Blog Sayfası',
   copyright: '© Tüm hakları saklıdır.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '271698717',
+  googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
