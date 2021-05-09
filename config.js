@@ -12,15 +12,15 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Konu Başlıkları',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Hakkımda',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'İletişim',
       path: '/pages/contacts'
     }
   ],
