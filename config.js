@@ -37,7 +37,7 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: 'https://www.linkedin.com/in/berkay-%C3%B6zdemir-03163a182/',
-      instagram: 'https://www.instagram.com/berkayozdemir.dev/',
+      instagram: 'instagram.com/berkayozdemir.dev/',
       line: '',
       gitlab: 'https://git.tebilisim.com/berkayozdemir',
       weibo: '',
