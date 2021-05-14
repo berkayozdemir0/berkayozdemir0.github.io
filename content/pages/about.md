@@ -6,9 +6,9 @@ socialImage: "/media/image-2.jpg"
 
 ## İlgilendiğim Sporlar
 
-![](/media/sporlar/sporlar-genel.png)
+![ada](/media/sporlar/sporlar-genel.png)
  
-
+[qweqwe](/pages/ilgilendigim-sporlar)
 
 
 ## Yetenek ağacı
