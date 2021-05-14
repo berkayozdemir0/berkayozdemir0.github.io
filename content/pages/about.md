@@ -8,5 +8,8 @@ socialImage: "/media/image-2.jpg"
 
 ![](/media/sporlar/sporlar-genel.png)
  
+ <div class="col-lg-6"> 1</div>
+ <div class="col-lg-6">2 </div>
+
 
 ## Yetenek ağacı
