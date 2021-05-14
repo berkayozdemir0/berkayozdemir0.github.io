@@ -23,7 +23,7 @@ socialImage: "/media/image-2.jpg"
    </div>
    <div class="col-lg-6">
 
-  <a href="kosu.md"><h1> Yamaç Paraşütü </h1> </a>
+  <a href="kosu.md"><h1> Yamaç Paraşütü </h1></a>
       <img src="/media/sporlar/yamac-parasutu-1.jpg"> 
    </div> 
 </div>
