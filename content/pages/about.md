@@ -6,11 +6,14 @@ socialImage: "/media/image-2.jpg"
 
 ## İlgilendiğim Sporlar
 
-![ada](/media/sporlar/sporlar-genel.png)
+<!-- ![Sporlar](/media/sporlar/sporlar-genel.png)   fotograf var-->
+
  
-[qweqwe](/pages/ilgilendigim-sporlar)
+[Devamı](/pages/ilgilendigim-sporlar)
 
 
 ## Yetenek ağacı
+[Devamı](/pages/ilgilendigim-sporlar)
+
 
  
